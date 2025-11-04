@@ -1,6 +1,7 @@
 # Projeto Robot Framework
 
-Este é um projeto de testes automatizados usando Robot Framework com Selenium.
+Este é um projeto de estudos de testes automatizados usando Phyton, Robot Framework com Selenium utilizando o https://automationpratice.com.br/ da QAzando onde sou aluna da MasterClass.
+Primeiro é com comandos básicos de clique, escrita e Sleep.
 
 ## Estrutura do Projeto
 
